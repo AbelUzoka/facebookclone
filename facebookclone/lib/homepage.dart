@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
                       },
                       child: Icon(
                         Icons.settings,
-                        color: Colors.blue[100],
+                        color: Color(0xFFBBDEFB),
                       ),
                       color: Colors.blue,
                     ),
